@@ -1,2 +1,3 @@
 pyautogui
+pillow>=9.0
 img2pdf
